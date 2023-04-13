@@ -12,6 +12,10 @@ Inference of [LLaMA](https://arxiv.org/abs/2302.13971) model in pure C/C++
 - [Add GPU support to ggml](https://github.com/ggerganov/llama.cpp/discussions/915)
 - [Roadmap Apr 2023](https://github.com/ggerganov/llama.cpp/discussions/784)
 
+## NOTE
+
+use the LLAMA.cpp directory, it allows you to run it on processors, then you load the models and follow the instructions
+
 ## Description
 
 The main goal is to run the model using 4-bit quantization on a MacBook
